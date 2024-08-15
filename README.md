@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Saloumeh.
-- 👀 I love nature.🪷🌳🏔️🏕️🏝️
-- 🌱 I’m currently learning Angular.
-
+- 👀 I love nature and biking.🚴🏻‍♀️🪷🏔️🏕️🏝️
+- 🌱 learning every day.
