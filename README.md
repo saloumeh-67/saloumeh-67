@@ -1,6 +1,6 @@
 ## Continuous Learner | Developer | Program manager
-#🔧 Current Focus: Updating Curriculum 
-#🌱 Learning: Modern Management Practices & Strategies 
+##🔧 Current Focus: Updating Curriculum 
+##🌱 Learning: Modern Management Practices & Strategies 
 
 
 I believe in steady growth through daily learning—whether it's coding, tools, or better ways to solve problems. If you're working on something interesting or need a second pair of eyes, feel free to reach out.
