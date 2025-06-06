@@ -1,3 +1,6 @@
 - 👋 Hi, I’m Saloumeh.
-- 👀 I love nature and biking.🚴🏻‍♀️🪷🏔️🏕️🏝️
-- 🌱 learning every day.
+  
+- 🌱 Learning every day.
+
+Tech stack
+Javascript - React - Node.js - Typescript - Angular 
